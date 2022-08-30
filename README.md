@@ -35,5 +35,5 @@
 - [Alacritty](https://github.com/alacritty/alacritty) as my default terminal, my config is here in the repo.
 - Gnome tweaks for changing the themes and fonts
 - [Rofi](https://github.com/davatorium/rofi) a my app launcher, I got my themes from [here](https://github.com/adi1090x/rofi)
-- Neofetch (my config is here in the repo, but [here is where I got them](https://github.com/eendroroy/alacritty-theme), the one I use require installing some additional fonts, go to the repo for more info on that)
+- Neofetch (my config is here in the repo, but [here is where I got them](https://github.com/Chick2D/neofetch-themes), the one I use require installing some additional fonts, go to the repo for more info on that)
 - Zsh shell (awesomepanda theme applied)
